@@ -55,4 +55,5 @@ Step 7: Profits vs. Discounts (Interactive Scatter Plot)
 •	Utilize buttons on the right to focus on a specific sub-category.
 
 •	Uncover the discount percentages offered for that category.
+
 By following these chronological steps, users can seamlessly navigate through the dashboard, ensuring a guided and comprehensive experience.
