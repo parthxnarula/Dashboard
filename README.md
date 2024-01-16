@@ -3,8 +3,11 @@
 1.	Step 1: Explore Interactive Bar Graph
 
 •	Start your exploration with an interactive bar graph.
+
 •	Bars are color-coded – blue represents sales, orange represents profits.
+
 •	On the right, find two buttons:
+
 •	Blue button: Focus on sales
 •	Orange button: Switch to profits
 
