@@ -11,6 +11,7 @@ Step 1: Explore Interactive Bar Graph
 •	Blue button: Focus on sales
 •	Orange button: Switch to profits
 
+
 Step 2: Sales and Profit by Sub-Categories
 
 •	Delve into sales and profits at the sub-category level.
@@ -21,6 +22,7 @@ Step 2: Sales and Profit by Sub-Categories
 •	Blue: View sales
 •	Orange: Explore profits
 
+
 Step 3: Sales Calendar
 
 •	Navigate through the sales calendar for a monthly breakdown.
@@ -29,6 +31,7 @@ Step 3: Sales Calendar
 
 •	Calendar is color-coded, illustrating sales categories from high to low.
 
+
 Step 4: Sales Distribution by Region (Pie Chart)
 
 •	Get a broader perspective on sales distribution across regions.
@@ -36,17 +39,20 @@ Step 4: Sales Distribution by Region (Pie Chart)
 •	Interactive pie chart with buttons on the right:
 •	West, East, South, Central – Focus on specific regions.
 
+
 Step 5: Ship Mode and Region Relationship (Sunburst Chart)
 
 •	Explore the relationship between ship mode and region.
 
 •	Hover over sections to discover preferred ship modes in different regions.
 
+
 Step 6: Quantities by Regions (Interactive Box Plot)
 
 •	Understand quantities ordered across regions.
 
 •	Interact with the box plot and use buttons to view quantities in specific regions.
+
 
 Step 7: Profits vs. Discounts (Interactive Scatter Plot)
 
